@@ -1,2 +1,2 @@
 # Real-Time-Chat-App
-node.js socket.io
+A real time chat app that uses node.js and socket.io.
